@@ -1,6 +1,6 @@
 This Repository contains implementation of **K_Means Algorithm** from scratch in numpy.
 
-**Dataset Used** : 50,000 Images from CIFAR Dataset
+**Dataset Used** : 50,000 Images from CIFAR 10 Dataset
   1. Load the data from the following link:
      https://www.cs.toronto.edu/~kriz/cifar.html
      
@@ -13,6 +13,8 @@ This Repository contains implementation of **K_Means Algorithm** from scratch in
        d) Data Matrix = Datapoints x Feature Size = 5000 x 10
        
 **Distance-Metric utilized here in K-Means Algorithm**: L2-Distance
+
+**Value of K used for demonstration :** 5 (5 Clusters)
 
 **Visulization** : Principal Component Analysis (PCA) 
 

@@ -4,7 +4,7 @@ This Repository contains implementation of **K_Means Algorithm** from scratch in
   1. Load the data from the following link:
      https://www.cs.toronto.edu/~kriz/cifar.html
      
-**Features(Generated for each CIFAR Images):**
+**Features(Generated for each CIFAR Image):**
   1. Every ML technique requires a carefully crafted features on which that particular algorithm is trained, Similarly our K_Means Algorithm will require some appropriate feature vector.
   2. Feature Generation(For KMeans):
        a) Convert images to grayscale images.\

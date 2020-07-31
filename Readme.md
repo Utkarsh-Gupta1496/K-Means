@@ -16,5 +16,5 @@ This Repository contains implementation of **K_Means Algorithm** from scratch in
 
 **Visulization** : Principal Component Analysis (PCA) 
 
-Sample Ouput: ![GitHub Logo](/images/logo.png)
+Sample Ouput: ![](/images/output.png.png)
 
